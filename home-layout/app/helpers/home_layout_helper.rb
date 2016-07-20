@@ -1,0 +1,2 @@
+module HomeLayoutHelper
+end
